@@ -6,7 +6,7 @@ See [this page](https://gondolindrim.github.io/AcheronDocs/madhatter/intro.html)
 
 ## Introduction
 
-The Cheshire is an Alice-layout compatible PCB, powered by STM32F072 microprocessor.
+The Cheshire is an Alice-layout compatible PCB, powered by STM32F072 microprocessor. It supports the default Alice layouts, RGB underglow, three indicator LEDs and single-color, THT per-key LEDs.
 
 ## Icon
 

@@ -362,7 +362,7 @@
       "idf": "",
       "netlist": "mad-hatter.net",
       "specctra_dsn": "",
-      "step": "../v1.0.4/mad-hatter.step",
+      "step": "../gerbers/cheshire_v1.0.1_3dmodel.step",
       "vmrl": "",
       "vrml": ""
     },
@@ -412,7 +412,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "../v1.0.4",
+    "plot_directory": "../gerbers/cheshire_v1.0.1_schematic.pdf",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
