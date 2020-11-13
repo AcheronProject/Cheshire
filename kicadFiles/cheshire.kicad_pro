@@ -85,8 +85,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "warning",
-        "silk_over_copper": "error",
-        "silk_overlap": "error",
+        "silk_over_copper": "warning",
+        "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -371,11 +371,32 @@
   "schematic": {
     "drawing": {
       "default_bus_thickness": 12.0,
-      "default_junction_size": 40.0,
+      "default_junction_size": 36.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
-      "field_names": [],
+      "field_names": [
+        {
+          "name": "Manufacturer",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Manufacturer Part Number",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "LCSC Part Number",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Package",
+          "url": false,
+          "visible": false
+        }
+      ],
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
@@ -399,7 +420,7 @@
   },
   "sheets": [
     [
-      "7acc3d43-8ed5-4266-83cf-ab9859aeea46",
+      "2d7d22f9-a166-4b02-ab18-d44774e90c23",
       ""
     ]
   ],

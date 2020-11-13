@@ -1,4 +1,4 @@
-18928405013160699
+18933229796977699
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -82278,6 +82278,20 @@ SM04B-SRSS-TB(LF)(SN)_mounting-reliefs
 20
 5
 acheron_Connectors
+SM05B-SRSS
+
+
+0
+7
+6
+acheron_Connectors
+SM05B-SRSS_MountingPin
+
+
+0
+21
+6
+acheron_Connectors
 SM11B-SRSS
 
 
@@ -82291,6 +82305,13 @@ SM13B-SRSS
 0
 15
 13
+acheron_Connectors
+SM14B-SRSS
+
+
+0
+16
+14
 acheron_Connectors
 SM20B-SRSS
 
